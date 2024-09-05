@@ -14,7 +14,6 @@ body {
   color: #434455;
   background-color: #fff;
 }
-
 /*================ HEADER STYLES =================*/
 .page-logo {
   font-family: 'Raleway', sans-serif;
@@ -51,7 +50,6 @@ body {
   color: #404bbf;
 }
 /*================ /HEADER STYLES =================*/
-
 /*================ MEIN SECTION ===================*/
 .mein-block {
   background-color: #2e2f42;
@@ -71,8 +69,7 @@ body {
 .mein-block-button:focus {
   background-color: #404bbf;
 }
-/*================ MEIN SECTION ===================*/
-
+/*================ /MEIN SECTION ===================*/
 /*================ BENEFITS SECTION ================*/
 .benefits-subject {
   font-weight: 500;
@@ -89,7 +86,6 @@ body {
   color: #434455;
 }
 /*================ /BENEFITS SECTION ================*/
-
 /*================ EMPLOYEE SECTION =================*/
 .employee {
   background-color: #f4f4fd;
@@ -118,8 +114,7 @@ body {
   letter-spacing: 0.02em;
   color: #434455;
 }
-/*================ EMPLOYEE SECTION =================*/
-
+/*================ /EMPLOYEE SECTION =================*/
 /*=================== FOOTER STYLES ==================*/
 .footer-logo-part {
   color: #f4f4fd;
@@ -134,5 +129,4 @@ body {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-
 /*=================== /FOOTER STYLES==================*/
